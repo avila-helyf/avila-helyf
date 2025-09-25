@@ -1,5 +1,10 @@
-## Hi there 👋
+## Olá, meu nome é Helyf 👋
 
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HelyfAvila&show_icons=true&theme=transparent&cache_buster=4" alt="Estatísticas do GitHub"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelyfAvila&layout=compact&theme=cobalt&cache_buster=4" alt="Linguagens mais usadas"/>
+</p>
 <!--
 **avila-helyf/avila-helyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
