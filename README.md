@@ -24,7 +24,7 @@
 * 💻 Atualmente trabalhando como **Analista de Implantação**
 * 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
 * ⚙️ Gosto tanto de trabalhar com **Backend** quanto com **Frontend**
-
+* ❤️ Apaixonada por tecnologia
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
