@@ -1,28 +1,38 @@
-## Olá, meu nome é Helyf 👋
+<div align="center">
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HelyfAvila&show_icons=true&theme=transparent&cache_buster=4" alt="Estatísticas do GitHub"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelyfAvila&layout=compact&theme=cobalt&cache_buster=4" alt="Linguagens mais usadas"/>
+## Olá, meu nome é Helyf ✨
+  
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=avila-helyf&theme=rose" alt="GitHub Streak Stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avila-helyf&theme=dracula" alt="Linguagens mais usadas"/>
 </p>
 
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avila-helyf/avila-helyf/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avila-helyf/avila-helyf/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/avila-helyf/avila-helyf/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/avila-helyf/avila-helyf/output/github-contribution-grid-snake.svg">
 </picture>
-<!--
-**avila-helyf/avila-helyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌸 Sobre mim
+
+* 💻 Atualmente trabalhando como **Analista de Implantação**
+* 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
+* ⚙️ Gosto tanto de trabalhar com **Backend** quanto com **Frontend**
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white" alt="Groovy" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
