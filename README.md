@@ -1,9 +1,9 @@
 <div align="center">
 
 ## Olá, meu nome é Helyf ✨
-  
+
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=avila-helyf&theme=rose" alt="GitHub Streak Stats"/>
+  <img height="165" src="./profile/streak.svg" alt="GitHub Streak Stats"/>
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avila-helyf&theme=dracula" alt="Linguagens mais usadas"/>
 </p>
 
@@ -23,8 +23,9 @@
 
 * 💻 Atualmente trabalhando como **Analista de Implantação**
 * 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
-* ⚙️ Gosto de trabalhar tanto com **Backend**, quanto com **Frontend** 
+* ⚙️ Gosto de trabalhar tanto com **Backend**, quanto com **Frontend**
 * ❤️ Apaixonada por tecnologia
+
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
